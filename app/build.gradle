@@ -44,7 +44,7 @@ dependencies {
     implementation "androidx.navigation:navigation-fragment-ktx:$nav_version"
     implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
     implementation "com.google.android.material:material:nav_version"
-
+    implementation 'com.squareup.picasso:picasso:2.5.2'
 
     compile 'com.squareup.retrofit2:retrofit:2.5.0'
     compile 'com.squareup.retrofit2:converter-gson:2.3.0'
